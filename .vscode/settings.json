@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6466e9d8-9854-4458-9cff-16b92c0a2d97/resourceGroups/rg-az900-labZR/providers/Microsoft.Web/sites/webaz900zu",
+    "appService.deploySubpath": "."
+}
